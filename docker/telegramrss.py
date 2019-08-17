@@ -6,8 +6,8 @@ import os
 
 # DOCKER SCRIPT
 
-Token = os.environ['TOKEN']
-chatid = os.environ['CHATID']
+Token = os.environ['788413434:AAGzqcKbPRA6rXES8A5xdObbLCRk-Qw6vWs']
+chatid = os.environ['@sanmail']
 delay = int(os.environ['DELAY'])
 
 rss_dict = {}
